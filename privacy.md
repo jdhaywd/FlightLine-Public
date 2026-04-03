@@ -18,11 +18,11 @@ Questions or concerns? Reading this Privacy Policy will help you understand your
 
 ## Summary of Key Points
 
-- **What personal information do we process?** When you use our Services, we may process personal information such as your staff number, crew code, display name, and roster data. [Learn more](#1-what-information-do-we-collect)
-- **Do we process any sensitive personal information?** We may process on-device financial data you voluntarily provide for payslip estimation purposes. We do not otherwise collect sensitive personal information. [Learn more](#1-what-information-do-we-collect)
-- **Do we collect any information from third parties?** We collect information about you from company systems. [Learn more](#1-what-information-do-we-collect)
-- **How do we process your information?** We process your information to provide, improve and administer our Services, and to communicate with you. [Learn more](#2-how-do-we-process-your-information)
-- **In what situations and with which parties do we share personal information?** We use third-party services as necessary to operate the app. [Learn more](#4-when-and-with-whom-do-we-share-your-personal-information)
+- **What personal information do we process?** When you use our Services, we may process personal information such as your name, staff number, crew code and roster data. [Learn more](#1-what-information-do-we-collect)
+- **Do we process any sensitive personal information?** If you choose to use pay features, we will process financial data you voluntarily provide on-device for payslip estimation purposes. This data never leaves your device and is never shared with FlightLine or any third party. We do not otherwise collect sensitive personal information. [Learn more](#1-what-information-do-we-collect)
+- **Do we collect any information from third parties?** We retrieve information from company systems only where strictly necessary to provide app functions. We do not receive your information from any other third-party sources. [Learn more](#1-what-information-do-we-collect)
+- **How do we process your information?** We process your information solely to provide, improve and administer our Services, and to communicate with you. Your data is never used for any other purpose. [Learn more](#2-how-do-we-process-your-information)
+- **In what situations and with which parties do we share personal information?** We do not sell or share your personal data with third parties for advertising or commercial purposes. We use secure backend infrastructure solely to sync and store your data across devices. [Learn more](#4-when-and-with-whom-do-we-share-your-personal-information)
 - **How do we keep your information safe?** We use a combination of organisational and technical security measures, including encrypted device storage and secure authentication. [Learn more](#7-how-do-we-keep-your-information-safe)
 - **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. [Learn more](#9-what-are-your-privacy-rights)
 - **How do you exercise your rights?** The easiest way to exercise your rights is by contacting us at flightline@ouranoco.com. We will consider and act upon any request in accordance with applicable data protection laws.
