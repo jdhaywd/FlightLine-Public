@@ -6,7 +6,7 @@ This Privacy Policy for FlightLine ('we', 'us', or 'our') describes how and why 
 - Download and use our mobile app (FlightLine), or any other app of ours that links to this Privacy Policy,
 - Engage with us in other related ways, including any sales, marketing, or events
 
-Questions or concerns? Reading this Privacy Policy will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at jdhaywd@gmail.com.
+Questions or concerns? Reading this Privacy Policy will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at flightline@ouranoco.com.
 
 ---
 
@@ -19,7 +19,7 @@ Questions or concerns? Reading this Privacy Policy will help you understand your
 - **In what situations and with which parties do we share personal information?** We use third-party services as necessary to operate the app. [Learn more](#4-when-and-with-whom-do-we-share-your-personal-information)
 - **How do we keep your information safe?** We use a combination of organisational and technical security measures, including encrypted device storage and secure authentication. [Learn more](#7-how-do-we-keep-your-information-safe)
 - **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. [Learn more](#9-what-are-your-privacy-rights)
-- **How do you exercise your rights?** The easiest way to exercise your rights is by contacting us at jdhaywd@gmail.com. We will consider and act upon any request in accordance with applicable data protection laws.
+- **How do you exercise your rights?** The easiest way to exercise your rights is by contacting us at flightline@ouranoco.com. We will consider and act upon any request in accordance with applicable data protection laws.
 
 ---
 
@@ -203,7 +203,7 @@ However, despite our safeguards and efforts to secure your information, no elect
 
 **In Short:** We do not knowingly collect data from or market to children under 18 years of age.
 
-We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at jdhaywd@gmail.com.
+We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at flightline@ouranoco.com.
 
 ---
 
@@ -213,19 +213,19 @@ We do not knowingly collect, solicit data from, or market to children under 18 y
 
 In some regions (like the EEA, UK, and Switzerland), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure, (iii) to restrict the processing of your personal information, (iv) if applicable, to data portability, and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information.
 
-You can make such a request by contacting us at jdhaywd@gmail.com. We will consider and act upon any request in accordance with applicable data protection laws.
+You can make such a request by contacting us at flightline@ouranoco.com. We will consider and act upon any request in accordance with applicable data protection laws.
 
 If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your [Member State data protection authority](https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm) or [UK data protection authority](https://ico.org.uk/make-a-complaint/data-protection-complaints/data-protection-complaints/).
 
 If you are located in Switzerland, you may contact the [Federal Data Protection and Information Commissioner](https://www.edoeb.admin.ch/edoeb/en/home.html).
 
-**Withdrawing your consent:** If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. You can withdraw your consent by contacting us at jdhaywd@gmail.com. However, please note that this will not affect the lawfulness of the processing before its withdrawal nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+**Withdrawing your consent:** If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. You can withdraw your consent by contacting us at flightline@ouranoco.com. However, please note that this will not affect the lawfulness of the processing before its withdrawal nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
 ### Account Information
 
 If you would at any time like to review or change the information in your account or terminate your account, you can:
 
-- Contact us at jdhaywd@gmail.com to request account deletion
+- Contact us at flightline@ouranoco.com to request account deletion
 - Delete the app from your device to remove all locally stored data
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms, and/or comply with applicable legal requirements.
@@ -250,9 +250,9 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 ## 12. How Can You Contact Us About This Notice?
 
-If you have questions or comments about this notice, you may email us at jdhaywd@gmail.com.
+If you have questions or comments about this notice, you may email us at flightline@ouranoco.com.
 
-If you are a resident in the United Kingdom, the 'data controller' of your personal information is Jack Hayward. You can contact him directly regarding the processing of your information by email at jdhaywd@gmail.com.
+If you are a resident in the United Kingdom, the 'data controller' of your personal information is Jack Hayward. You can contact him directly regarding the processing of your information by email at flightline@ouranoco.com.
 
 ---
 
@@ -260,4 +260,4 @@ If you are a resident in the United Kingdom, the 'data controller' of your perso
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law.
 
-To request to review, update, or delete your personal information, please contact us at jdhaywd@gmail.com.
+To request to review, update, or delete your personal information, please contact us at flightline@ouranoco.com.
