@@ -13,10 +13,10 @@ Questions or concerns? Reading this Privacy Policy will help you understand your
 ## Summary of Key Points
 
 - **What personal information do we process?** When you use our Services, we may process personal information such as your staff number, crew code, display name, and roster data. [Learn more](#1-what-information-do-we-collect)
-- **Do we process any sensitive personal information?** We may process financial data you voluntarily provide for payslip estimation purposes. We do not otherwise collect sensitive personal information. [Learn more](#1-what-information-do-we-collect)
-- **Do we collect any information from third parties?** We do not collect information about you from third parties. [Learn more](#1-what-information-do-we-collect)
-- **How do we process your information?** We process your information to provide, improve, and administer our Services, and to communicate with you. [Learn more](#2-how-do-we-process-your-information)
-- **In what situations and with which parties do we share personal information?** We share limited information with specific third-party service providers necessary to operate the app. [Learn more](#4-when-and-with-whom-do-we-share-your-personal-information)
+- **Do we process any sensitive personal information?** We may process on-device financial data you voluntarily provide for payslip estimation purposes. We do not otherwise collect sensitive personal information. [Learn more](#1-what-information-do-we-collect)
+- **Do we collect any information from third parties?** We collect information about you from company systems. [Learn more](#1-what-information-do-we-collect)
+- **How do we process your information?** We process your information to provide, improve and administer our Services, and to communicate with you. [Learn more](#2-how-do-we-process-your-information)
+- **In what situations and with which parties do we share personal information?** We use third-party services as necessary to operate the app. [Learn more](#4-when-and-with-whom-do-we-share-your-personal-information)
 - **How do we keep your information safe?** We use a combination of organisational and technical security measures, including encrypted device storage and secure authentication. [Learn more](#7-how-do-we-keep-your-information-safe)
 - **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. [Learn more](#9-what-are-your-privacy-rights)
 - **How do you exercise your rights?** The easiest way to exercise your rights is by contacting us at jdhaywd@gmail.com. We will consider and act upon any request in accordance with applicable data protection laws.
@@ -51,28 +51,28 @@ We collect personal information that you voluntarily provide to us when you regi
 
 **Personal Information Provided by You.** The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the features you use. The personal information we collect may include the following:
 
-- **Staff number** — your airline employee identifier, used to authenticate your account and retrieve roster data
-- **Crew code** — your personal crew identifier within the airline
+- **Staff number** — used to authenticate your account and retrieve roster data from your airline's scheduling system
+- **Crew code** — used to authenticate your account and retrieve roster data from your airline's scheduling system
 - **Display name** — optionally provided during Sign in with Apple
 - **Roster and schedule data** — trip lines, duties, sectors, and ground duties imported from your airline's scheduling system
 - **Postcode or home location** — if you choose to use the commute calculator feature
-- **Payslip estimation data** — salary, pension, tax code, and other financial parameters you voluntarily enter for payslip calculations. This data is stored locally on your device only and is never transmitted to our servers
+- **Payslip estimation data** — salary, tax code, and other financial parameters you voluntarily enter for payslip calculations. This data is stored locally on your device only and is never transmitted to our servers
 - **Fleetlist credentials** — if you choose to use the pilot lookup feature, your fleetlist.com email and password are stored in your device's encrypted Keychain and are never transmitted to FlightLine servers
 - **Calendar data** — if you grant calendar access, we write roster events to your device calendar. We do not read or collect your existing calendar data
 - **Custom key dates and notification preferences** — dates and reminder settings you configure within the app
 
 **Sensitive Information.** When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:
 
-- **Financial data** — salary, tax, and pension information you voluntarily provide for the payslip estimation feature. This data is stored exclusively on your device and is never transmitted to our servers.
+- **Financial data** — salary and tax information you voluntarily provide for the payslip estimation feature. This data is stored exclusively on your device and is never transmitted to our servers.
 
 **Information NOT Collected.** We want to be clear about what we do not collect:
 
-- We do not use any analytics or tracking services (no Firebase, Mixpanel, or similar)
+- We do not use any analytics or tracking services
 - We do not serve advertisements
 - We do not sell your data to third parties
 - We do not collect your location (GPS) data
 - We do not access your contacts, photos, camera, or microphone
-- We do not collect your airline login (BSAFE) password — it is used only in-memory during your session and is never stored or transmitted to our servers
+- We do not collect or store your company login password — it is used only in-memory during your session and is never stored or transmitted to our servers
 
 ### Information automatically collected
 
@@ -96,7 +96,7 @@ We process your personal information for the following purposes:
 - **To facilitate account creation and authentication.** We process your staff number, crew code, and Apple ID to create and verify your account.
 - **To deliver the Services.** We process your roster data to display your schedule, calculate allowances, estimate pay, and provide commute information.
 - **To manage subscriptions.** We process your subscription status to provide access to premium features.
-- **To enforce usage limits.** We track Mapbox API call counts to manage fair usage of the commute calculator feature.
+- **To enforce usage limits.** We track API call counts to manage fair usage of the commute calculator feature.
 - **To send notifications.** If you opt in, we send push notifications for key dates, commute alerts, and trip reminders.
 - **To export calendar events.** If you grant permission, we write your roster events to your device calendar.
 
@@ -125,7 +125,7 @@ We may share your personal information in the following situations:
 
 | Provider | Data Shared | Purpose |
 |----------|-------------|---------|
-| **Supabase** (backend database) | Staff number, crew code, display name, subscription status, Mapbox usage count, last login timestamp | Account management, subscription verification, usage tracking |
+| **Supabase** | Staff number, crew code, display name, subscription status, API usage count, last login timestamp | Account management, subscription verification, usage tracking |
 | **Apple** (Sign in with Apple) | Apple identity token | Authentication |
 | **Mapbox** | Postcode/coordinates, destination coordinates | Commute route calculation and geocoding |
 
@@ -133,9 +133,9 @@ We may share your personal information in the following situations:
 
 The following services are accessed directly by you through the app. FlightLine facilitates your connection but does not relay or store your credentials for these services on our servers:
 
-- **Airline scheduling systems** (eMaestro) — accessed via in-app browser using your own airline credentials
-- **Airline bidding systems** (CrewBid) — accessed via SAML authentication using your own airline credentials
-- **Airline briefing systems** (CrewLink) — accessed via your own airline credentials
+- **Airline scheduling systems** — accessed using your own airline credentials
+- **Airline bidding systems** — accessed using your own airline credentials
+- **Airline briefing systems** — accessed via your own airline credentials
 - **Fleetlist.com** — accessed using credentials you optionally store in your device's encrypted Keychain
 
 ### We Do NOT Share Data With
@@ -148,7 +148,7 @@ The following services are accessed directly by you through the app. FlightLine 
 
 ---
 
-## 5. How Do We Handle Your Social Logins?
+## 5. How Do We Handle Your Login?
 
 **In Short:** If you choose to register or log in to our Services using Sign in with Apple, we may have access to certain information about you.
 
@@ -173,7 +173,7 @@ We will only keep your personal information for as long as it is necessary for t
 | Roster and schedule data | Stored on your device; managed by you |
 | Payslip estimation data | Stored on your device only; cleared on app deletion |
 | Fleetlist credentials | Stored in device Keychain; cleared on app deletion or manual removal |
-| Mapbox usage counts | Reset monthly |
+| API usage counts | Reset monthly |
 | Last login timestamp | Until you delete your account |
 | Cached crew photos | Stored on your device only; cleared on app deletion |
 | Subscription status | Until you delete your account |
@@ -192,7 +192,7 @@ We have implemented appropriate and reasonable technical and organisational secu
 - **iOS Keychain** encryption for any stored credentials
 - **iOS Data Protection** for locally stored data
 - **HTTPS** for all network communications
-- **No storage of airline passwords** on our servers — BSAFE credentials are used in-memory only
+- **No storage of airline passwords** on our servers — credentials are used in-memory only
 - **No analytics or tracking SDKs** that could expose your data
 
 However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorised third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
@@ -250,11 +250,7 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 ## 12. How Can You Contact Us About This Notice?
 
-If you have questions or comments about this notice, you may email us at jdhaywd@gmail.com or contact us by post at:
-
-Jack Hayward
-FlightLine
-United Kingdom
+If you have questions or comments about this notice, you may email us at jdhaywd@gmail.com.
 
 If you are a resident in the United Kingdom, the 'data controller' of your personal information is Jack Hayward. You can contact him directly regarding the processing of your information by email at jdhaywd@gmail.com.
 
