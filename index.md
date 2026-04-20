@@ -1,4 +1,6 @@
-Crafting iOS apps since 2026.
+Here's a list of our iOS apps. 
+
+Need to get in touch? Email us at support@ouranoco.com.
 
 # FlightLine
 
