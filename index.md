@@ -1,3 +1,3 @@
-[Privacy Policy](/privacy)
+[FlightLine Privacy Policy](/privacy)
 
-[Support](/support)
+[FlightLine Support](/support)
