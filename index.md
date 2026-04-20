@@ -1,4 +1,4 @@
-Our apps:
+Crafting iOS apps since 2026.
 
 # FlightLine
 
