@@ -25,7 +25,7 @@ Questions or concerns? Reading this Privacy Policy will help you understand your
 - **In what situations and with which parties do we share personal information?** We do not sell or share your personal data with third parties for advertising or commercial purposes. We use secure backend infrastructure solely to sync and store your data across devices. [Learn more](#4-when-and-with-whom-do-we-share-your-personal-information)
 - **How do we keep your information safe?** We use a combination of organisational and technical security measures, including encrypted device storage and secure authentication. [Learn more](#7-how-do-we-keep-your-information-safe)
 - **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. [Learn more](#9-what-are-your-privacy-rights)
-- **How do you exercise your rights?** The easiest way to exercise your rights is by contacting us at flightline@ouranoco.com. We will consider and act upon any request in accordance with applicable data protection laws.
+- **How do you exercise your rights?** The easiest way to exercise your rights is by contacting us at privacy@ouranoco.com. We will consider and act upon any request in accordance with applicable data protection laws.
 
 ---
 
