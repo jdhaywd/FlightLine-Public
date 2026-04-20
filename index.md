@@ -1,6 +1,8 @@
 Here's a list of our iOS apps. 
 
-Need to get in touch? Email us at support@ouranoco.com.
+For support, use the links below.
+
+Need to get in touch about something else? Email us at hello@ouranoco.com.
 
 # FlightLine
 
